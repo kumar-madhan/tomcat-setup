@@ -5,7 +5,7 @@ set -e
 ```
 ## Define variables
 ```
-TOMCAT_VERSION="10.1.16"
+TOMCAT_VERSION="10.1.28"
 TOMCAT_TAR="apache-tomcat-$TOMCAT_VERSION.tar.gz"
 TOMCAT_URL="https://downloads.apache.org/tomcat/tomcat-10/v$TOMCAT_VERSION/bin/$TOMCAT_TAR"
 TOMCAT_DIR="/opt/tomcat"
